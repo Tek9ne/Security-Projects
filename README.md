@@ -17,10 +17,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">SIEM Deployment for E-Commerce Platform, Log Analysis for Financial Institution </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Real-Time Network Monitoring Setup, Intrusion Detection System with Snort </a>|
-| Security Automation with Shuffle SOAR       | <a href="https://google.com">Automated Phishing Response with Shuffle SOAR,Incident Triage Automation Using Shuffle SOAR </a>||
+| Security Automation with Shuffle SOAR       | <a href="https://google.com">Automated Phishing Response with Shuffle SOAR, Incident Triage Automation Using Shuffle SOAR </a>||
 | Incident Response Planning and Execution      | <a href="https://google.com">Comprehensive Incident Response Strategy for Healthcare, Cyber Incident Simulation Exercise </a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Case Management with TheHive                  | <a href="https://google.com">Case Management Workflow Optimization, TheHive Implementation for Cybersecurity Team </a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Bash Scripts for Automated Threat Detection, PowerShell Scripts for Vulnerability Assessment </a>|
 
 ## Tools
 
