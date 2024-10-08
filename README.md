@@ -1,8 +1,8 @@
 # Security-Projects
 # Hello, I'm Chinwe Miracle
-<a href="[(https://www.linkedin.com/in/miracle-chinwe-410319331/)]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-(https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
-
+<a href="https://www.linkedin.com/in/miracle-chinwe-410319331/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 I am graduate with a profound interest in technology and a dedication to solving complex problems.
 
